@@ -1,10 +1,10 @@
+import NavBar from "./components/NavBar";
 
 
 function App() {
   return (
-   <h1 className="text-danger">Página Principal</h1>
-  
-  );
-}
 
+    <NavBar/>
+  )
+}
 export default App;
